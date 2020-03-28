@@ -1,2 +1,2 @@
 # hello-world
-Hello World Intro repository
+Testing how repositories in GitHub works
